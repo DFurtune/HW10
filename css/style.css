@@ -1,0 +1,189 @@
+.navigation {
+  width: 1440px;
+  height: 50px;
+  border-bottom: 1px solid #dbdbdb;
+}
+.logo {
+  margin-left: 18.2%;
+  margin-top: 1%;
+}
+.search {
+  width: 216px;
+  height: 29px;
+  background: #fafafa;
+  border: 1px solid #dbdbdb;
+  box-sizing: border-box;
+  border-radius: 3px;
+  margin-left: 17.4%;
+  text-align: center;
+  margin-top: 13px;
+}
+.icons {
+  display: inline;
+  margin-left: 12%;
+  margin-top: 13px;
+  text-align: center;
+}
+.icons img {
+  margin-right: 22px;
+}
+.profile {
+  display: flex;
+}
+.profile img {
+  margin-left: 23.1%;
+  margin-top: 29px;
+  display: inline;
+  width: 154px;
+  height: 153px;
+}
+.name {
+  display: flex;
+}
+.name h2 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #262626;
+  display: inline;
+  margin-left: 91px;
+  margin-top: 25px;
+}
+.name button {
+  width: 97px;
+  height: 29px;
+  background: #4094ef;
+  border-radius: 3px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+  border: none;
+  margin-left: 26px;
+  margin-top: 25px;
+}
+.name select {
+  width: 33px;
+  height: 29px;
+  background: #4094ef;
+  border-radius: 3px;
+  margin-left: 8px;
+  margin-top: 25px;
+}
+.posts {
+  margin-left: 91px;
+}
+.posts span {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  color: #262626;
+  margin-right: 35px;
+}
+.about-user h2 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  color: #262626;
+  margin-left: 91px;
+  display: flex;
+  align-items: center;
+}
+.about-user p {
+  width: 531px;
+  height: 51px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 25px;
+  color: #262626;
+  display: flex;
+  align-items: center;
+  margin-left: 91px;
+}
+.about-user a {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #133768;
+  margin-left: 91px;
+}
+.friends img {
+  width: 79px;
+  height: 79px;
+  margin-right: 39px;
+  margin-top: 56px;
+}
+.friends img:first-child {
+  margin-left: 23.1%;
+}
+.name-friends {
+  display: flex;
+}
+.name-friends h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #262626;
+  margin-right: 80px;
+}
+.name-friends h3:first-child {
+  margin-left: 24.7%;
+}
+.user-info {
+  border-bottom: 1px solid #dbdbdb;
+}
+.posts-tagged {
+  display: flex;
+}
+.posts {
+  display: flex;
+  width: 45px;
+  height: 15px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  align-items: center;
+  letter-spacing: 0.09em;
+  color: #262626;
+  margin-left: 43.7%;
+  margin-top: 19px;
+  justify-content: space-between;
+}
+.tagged {
+  display: flex;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  align-items: center;
+  letter-spacing: 0.09em;
+  color: #8f8f8f;
+  margin-top: 7px;
+  margin-left: 3%;
+}
+.gallery {
+  width: 1050px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-left: 235px;
+}
+.item {
+  margin-right: 25px;
+  margin-top: 25px;
+}
